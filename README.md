@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/path/to/your/image/prahar_data_insight.png" alt="Prahar Shah - Driving Data into Insight" width="700">
+  <img src="Image.png" width="700">
 </p>
 
 
