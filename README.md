@@ -14,13 +14,13 @@ A Data Analyst who thrives on transforming data into action 🎯
 ---
 
 ### 📌 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/praharshah/) | [GitHub](https://github.com/prahar0505)  
+[LinkedIn](https://www.linkedin.com/in/praharshah/) | [GitHub](https://github.com/YOUR_USERNAME) *(replace with actual username)*  
 
 ---
 
 ### 🛠️ Skills
 
-| Data & Programming | BI Tools & Reporting | Cloud & Workflow |
+| Data & Programming | BI Tools & Reporting | Cloud & Workflow | 
 |--------------------|----------------------|------------------|
 | Python, R, SQL     | Power BI, Tableau    | Azure, AWS       |
 | NoSQL, PL/SQL      | Advanced Excel       | Databricks       |
@@ -39,5 +39,6 @@ A Data Analyst who thrives on transforming data into action 🎯
 - **Master’s in Data Analytics**, Northeastern University (Toronto)  
 - **Bachelor’s in Engineering**, Gujarat Technological University  
 
----
+
+
 
