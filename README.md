@@ -29,12 +29,6 @@ A Data Analyst who thrives on transforming data into action 🎯
 
 ---
 
-### 📈 Projects  
-- **Yonge Street Mission**: Achieved 85% CNN model accuracy; built QlikView dashboards and optimized service classification using BigQuery.  
-- **Harvest Performance**: Cleaned and modeled survey and sales data using Pandas/SQL. Achieved 98% accuracy and uncovered trends using Seaborn & Matplotlib.
-
----
-
 ### 📜 Certifications  
 - British Airways Data Science Simulation (Forage)  
 - Accenture Data Analytics & Visualization Simulation (Forage)  
