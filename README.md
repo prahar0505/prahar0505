@@ -14,7 +14,7 @@ A Data Analyst who thrives on transforming data into action 🎯
 ---
 
 ### 📌 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/praharshah/) | [GitHub](https://github.com/YOUR_USERNAME) *(replace with actual username)*  
+[LinkedIn](https://www.linkedin.com/in/praharshah/) | [GitHub](https://github.com/prahar0505)  
 
 ---
 
