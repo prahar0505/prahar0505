@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 Hello! Welcome to my data-driven corner of GitHub
+## 👋 Hello! Welcome to my Data-Driven Corner 
 
 I'm **Prahar Shah**, a passionate **Data Analyst** based in Toronto who loves turning complex datasets into meaningful business insights. Whether it's wrangling unstructured data, automating reporting pipelines, or building machine learning models—I’m always on the hunt for ways to **optimize decision-making through analytics**.
 
