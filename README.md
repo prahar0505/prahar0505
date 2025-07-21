@@ -1,16 +1,49 @@
-## Hi there 👋
+### Hi there 👋 Welcome to the world 🌍 of data and insights  
+I’m **Prahar Shah**  
+A Data Analyst who thrives on transforming data into action 🎯  
 
-<!--
-**prahar0505/prahar0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 About Me  
+📍 Toronto, ON  
+📊 Passionate about Data Quality, Validation & Automation  
+🤖 Applied Machine Learning Enthusiast  
+🛠️ ETL | BI | Predictive Modeling  
+🧠 Always curious to learn, build, and explore  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Let's Connect  
+[LinkedIn](https://www.linkedin.com/in/praharshah/) | [GitHub](https://github.com/YOUR_USERNAME) *(replace with actual username)*  
+
+---
+
+### 🛠️ Skills
+
+| Data & Programming | BI Tools & Reporting | Cloud & Workflow |
+|--------------------|----------------------|------------------|
+| Python, R, SQL     | Power BI, Tableau    | Azure, AWS       |
+| NoSQL, PL/SQL      | Advanced Excel       | Databricks       |
+| SAS, DAX           | Qlik Sense           | Apache, GCP      |
+| TensorFlow, Scikit | RPA, CRM Tools       | Agile, Kanban    |
+
+---
+
+### 📈 Projects  
+- **Yonge Street Mission**: Achieved 85% CNN model accuracy; built QlikView dashboards and optimized service classification using BigQuery.  
+- **Harvest Performance**: Cleaned and modeled survey and sales data using Pandas/SQL. Achieved 98% accuracy and uncovered trends using Seaborn & Matplotlib.
+
+---
+
+### 📜 Certifications  
+- British Airways Data Science Simulation (Forage)  
+- Accenture Data Analytics & Visualization Simulation (Forage)  
+
+---
+
+### 🎓 Education  
+- **Master’s in Data Analytics**, Northeastern University (Toronto)  
+- **Bachelor’s in Engineering**, Gujarat Technological University  
+
+---
+
