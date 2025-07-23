@@ -43,15 +43,6 @@ I love translating raw numbers into visual stories and actionable strategies—w
 
 ---
 
-### 🏅 Certifications
-- **British Airways Data Science Simulation**  
-  *Scraped and analyzed customer review data to model purchase behavior.*
-
-- **Accenture NA: Data Analytics & Visualization**  
-  *Designed interactive dashboards and cleaned complex datasets in SQL & Power BI.*
-
----
-
 ### 📬 Let’s Connect
 📎 [LinkedIn](https://www.linkedin.com/in/praharshah/)  
 👨‍💻 [GitHub](https://github.com/prahar0505)  
